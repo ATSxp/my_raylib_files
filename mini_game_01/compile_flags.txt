@@ -1,0 +1,4 @@
+-I
+C:/MinGW/mingw64/x86_64-w64-mingw32/include/
+-I
+C:/raylib-4.2.0/src/
